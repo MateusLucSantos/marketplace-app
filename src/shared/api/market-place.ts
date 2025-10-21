@@ -15,4 +15,4 @@ export class MarketPlaceApiClient {
   }
 }
 
-export const marketPlaceApiClient = new MarketPlaceApiClient();
+export const marketPlaceApiClient = new MarketPlaceApiClient().getInstance();
