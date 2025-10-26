@@ -1,5 +1,4 @@
-import { Redirect, router } from "expo-router";
-import { Text, TouchableOpacity, View } from "react-native";
+import { Redirect } from "expo-router";
 
 export default function App() {
   const userDate = null;
